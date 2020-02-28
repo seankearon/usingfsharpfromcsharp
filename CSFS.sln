@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsUsingCSharp", "TestsUsingCSharp\TestsUsingCSharp.csproj", "{FD416E27-024F-4A10-A707-E1D7007F2D47}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DomainInFSharp", "DomainInFSharp\DomainInFSharp.fsproj", "{F6D92ADB-DEF9-4737-8008-8F563C00E4FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD416E27-024F-4A10-A707-E1D7007F2D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD416E27-024F-4A10-A707-E1D7007F2D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD416E27-024F-4A10-A707-E1D7007F2D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD416E27-024F-4A10-A707-E1D7007F2D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D92ADB-DEF9-4737-8008-8F563C00E4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D92ADB-DEF9-4737-8008-8F563C00E4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D92ADB-DEF9-4737-8008-8F563C00E4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D92ADB-DEF9-4737-8008-8F563C00E4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
