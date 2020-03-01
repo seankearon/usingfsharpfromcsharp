@@ -9,3 +9,7 @@ module Model =
         Birthday: DateTime
     }
 
+    open FSharp.Json
+    let personToJson (p: Person) =
+        Json.serialize p
+
